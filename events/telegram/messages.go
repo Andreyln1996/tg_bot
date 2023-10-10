@@ -1,6 +1,7 @@
 package telegram
 
-const msgHello = "Всем привет! \n Я могу рандомно выбрать ревьюера"
+const msgHelp = "Я могу рандомно выбрать ревьюера"
+const msgHello = "Всем привет! \n" + msgHelp
 
 const (
 	msgUnknownCommand = "Unknown command"
